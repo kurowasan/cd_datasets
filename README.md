@@ -17,7 +17,7 @@
 | Marbach et al., 2010             | DREAM4                           | .                                                                                           |
 | Van den Bulcke et al., 2006      | SynTReN                          | [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43) |
 
-### Gene regulatory networks
+### Gene regulatory networks datasets
 | Article                | Name                                                    | Link                                                                                                                 |
 |------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Replogle et al., 2022  | Perturb-seq (cell line K562)                            | [https://github.com/causalbench/causalbench](https://github.com/causalbench/causalbench)                             |
@@ -30,6 +30,7 @@
 | Sachs et al., 2005     | Flow cytometry dataset of immune cells                  | .                                                                                                                    |
 | Wille et al., 2004     | Microarray of *A. thaliana* gene expression             | .                                                                                                                    |
 
+### Brain imaging datasets
 | Dataset                      | Open | Link raw data                                               | Link preprocessed                                                                                   |
 |------------------------------|------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Shah et al., 2018            | Yes  | [https://github.com/shahpreya/MTLnet](https://github.com/shahpreya/MTLnet) | -                                                                                                   |
