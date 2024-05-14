@@ -12,8 +12,8 @@
 | Runge et al., 2019               | CauseMe                          | [https://causeme.uv.es/](https://causeme.uv.es/)                                            |
 | Sanchez-Romero et al., 2019      | .                                | .                                                                                           |
 | Tu et al., 2019                  | Neuropathic Pain Diagnosis Simulator | [https://github.com/TURuibo/Neuropathic-Pain-Diagnosis-Simulator](https://github.com/TURuibo/Neuropathic-Pain-Diagnosis-Simulator) |
-| Schaffter et al., 2011           | GeneNetWeaver                   | [https://gnw.sourceforge.net/genenetweaver.html](https://gnw.sourceforge.net/genenetweaver.html) |
-| Smith et al., 2011               | .                                | .                                                                                           |
+| Schaffter et al., 2011           | GeneNetWeaver                    | [https://gnw.sourceforge.net/genenetweaver.html](https://gnw.sourceforge.net/genenetweaver.html) |
+| Smith et al., 2011               | NetSim                           | [https://www.fmrib.ox.ac.uk/datasets/netsim/](https://www.fmrib.ox.ac.uk/datasets/netsim/)  |
 | Marbach et al., 2010             | DREAM4                           | .                                                                                           |
 | Van den Bulcke et al., 2006      | SynTReN                          | [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43) |
 
