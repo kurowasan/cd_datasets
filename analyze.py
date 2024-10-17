@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib_venn import venn3
 
 
-def plot_distribution_type_dataset(df, output_path: str, verbose: bool = True):
+def plot_distribution_type_dataset(df: pd.DataFrame, output_path: str, verbose: bool = True):
     """
     Get the distribution of the type of dataset (synth, pseudo-real, real).
     Plot a Venn diagram similar to Fig.2.
@@ -52,9 +52,9 @@ def plot_distribution_type_dataset(df, output_path: str, verbose: bool = True):
         print(f"Contains real datasets: {len(df[df['real'] == 1]) / len(df) * 100:.1f}%")
 
 
-def plot_distribution_fields(df, output_path: str, verbose: bool = True):
+def plot_distribution_fields(df: pd.DataFrame, output_path: str, verbose: bool = True):
     """
-    Plot the distribution of the fields of dataset similar to Fig.3.
+    Plot the distribution of the fields of datasets similar to Fig.3.
     Args:
         df: dataframe containing the curated papers
         output_path: the path to save the plot
@@ -85,7 +85,7 @@ def plot_distribution_fields(df, output_path: str, verbose: bool = True):
         print(f"Percentage of papers having only Sachs as real-world data: {len(df_only_sachs) / len_real * 100:.1f}%")
 
 
-def plot_distribution_datasets(df, verbose: bool = True):
+def plot_distribution_datasets(df: pd.DataFrame, verbose: bool = True):
     """
     Plot the distribution of the specific datasets (e.g., Sachs, bnlearn) used in the papers.
     Args:
@@ -106,7 +106,7 @@ def plot_distribution_datasets(df, verbose: bool = True):
     print(datasets_count)
 
 
-def plot_distribution_metrics(df, output_path: str, verbose: bool = True):
+def plot_distribution_metrics(df: pd.DataFrame, output_path: str, verbose: bool = True):
     """
     Plot the distribution of the type of metrics used in the papers similar to Table 1.
     Args:
@@ -151,7 +151,7 @@ def plot_distribution_metrics(df, output_path: str, verbose: bool = True):
         print(f"Percentage of papers using real-world data that could have used interventional metrics: {could_use_interv:.1f}%")
 
 
-def print_other_stats(df):
+def print_other_stats(df: pd.DataFrame):
     """
     Print interesting miscellaneous statistics.
     Args:
@@ -185,11 +185,6 @@ def main(output_path: str, include_sachs: bool, verbose: bool):
 
 
     if not include_sachs:
-        # remove the papers that contain Sachs as, at least, one of their real-world dataset
-        # len_before = len(df)
-        # df = df[~((df['real'] == 1) & (df['real_datasets'].str.contains('Sachs')))]
-        # print(f"Number of papers removed (contains Sachs as a real-world dataset): {len_before - len(df)}")
-
         # remove the papers that contain only Sachs as their real-world dataset
         len_before = len(df)
         df = df[~((df['real'] == 1) & (df['real_datasets'] == 'Sachs'))]
