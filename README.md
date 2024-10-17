@@ -2,7 +2,7 @@
 In this repository, we make accessible the list of curated papers used in the systematic review presented in Section 4 and the code used to analyze it. We also give a list of pseudo-real and real-world datasets with their links and references.
 
 ## 📝 Systematic Review
-The file `retrieve_papers.py` contains the code used to retrieve causal discovery papers using the Semantic Scholar API. To use it, you may need to get an API key (go [https://www.semanticscholar.org/product/api#api-key-form](here)) and add your API key by replacing `XXX` at the line `headers = {'x-api-key': 'XXX'}`.
+The file `retrieve_papers.py` contains the code used to retrieve causal discovery papers using the Semantic Scholar API. To use it, you may need to get an [API key](https://www.semanticscholar.org/product/api#api-key-form) and add your API key by replacing `XXX` at the line `headers = {'x-api-key': 'XXX'}`.
 
 The CSV file `curated_papers.csv` contains the paper found with several annotations that were made manually. The annotations indicate if the paper was included, what type of dataset and metrics was used, etc. See Appendix A.1 for a complete presentation of the different fields.
 
