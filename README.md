@@ -40,7 +40,7 @@ Here is a list of datasets that were discussed in our paper.
 | Singer et al., 2016    | Naive and activated T cells (Drop-seq)                  | .                                                                                                                    |
 | Klein et al., 2015     | scRNAseq data of mouse embryonic stem cells             | .                                                                                                                    |
 | Sachs et al., 2005     | Flow cytometry dataset of immune cells                  | .                                                                                                                    |
-| Wille et al., 2004     | Microarray of *A. thaliana* gene expression             | .                                                                                                                    |
+| [Wille et al., 2004](https://link.springer.com/content/pdf/10.1186/gb-2004-5-11-r92.pdf)     | Microarray of *A. thaliana* gene expression             | [link](https://link.springer.com/article/10.1186/gb-2004-5-11-r92#MOESM1)                                                                                                                     |
 
 ### Brain imaging datasets
 | Dataset                      | Open | Link raw data                                               | Link preprocessed                                                                                   |
