@@ -22,19 +22,19 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | Pratapa et al., 2020             | BEELINE                          | [https://github.com/murali-group/BEELINE](https://github.com/murali-group/BEELINE)          |
 | Dibaeinia and Sinha, 2020        | SERGIO                           | [https://github.com/PayamDiba/SERGIO](https://github.com/PayamDiba/SERGIO)                  |
 | Runge et al., 2019               | CauseMe                          | [https://causeme.uv.es/](https://causeme.uv.es/)                                            |
-| Sanchez-Romero et al., 2019      | .                                | [https://github.com/cabal-cmu/Feedback-Discovery](https://github.com/cabal-cmu/Feedback-Discovery) |
+| Sanchez-Romero et al., 2019      | -                                | [https://github.com/cabal-cmu/Feedback-Discovery](https://github.com/cabal-cmu/Feedback-Discovery) |
 | Tu et al., 2019                  | Neuropathic Pain Diagnosis Simulator | [https://github.com/TURuibo/Neuropathic-Pain-Diagnosis-Simulator](https://github.com/TURuibo/Neuropathic-Pain-Diagnosis-Simulator) |
 | Schaffter et al., 2011           | GeneNetWeaver                    | [https://gnw.sourceforge.net/genenetweaver.html](https://gnw.sourceforge.net/genenetweaver.html) |
 | Smith et al., 2011               | NetSim                           | [https://www.fmrib.ox.ac.uk/datasets/netsim/](https://www.fmrib.ox.ac.uk/datasets/netsim/)  |
 | Marbach et al., 2010             | DREAM4                           | [https://www.synapse.org/Synapse:syn3049712/wiki/74630](https://www.synapse.org/Synapse:syn3049712/wiki/74630)                                                                                           |
-| Van den Bulcke et al., 2006      | SynTReN                          | [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43) |
+| Van den Bulcke et al., 2006      | SynTReN                          | [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1...](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43) |
 
 ### Gene regulatory network datasets
 | Article                | Name                                                    | Link                                                                                                                 |
 |------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Replogle et al., 2022  | Perturb-seq (cell line K562)                            | [https://github.com/causalbench/causalbench](https://github.com/causalbench/causalbench)                             |
 | Replogle et al., 2022  | Perturb-seq (cell line RPE1)                            | [https://github.com/causalbench/causalbench](https://github.com/causalbench/causalbench)                             |
-| Frangieh et al., 2021  | Perturb-CITE-seq data from melanoma cells               | [https://singlecell.broadinstitute.org/single_cell/study/SCP1064/multi-modal-pooled-perturb-cite-seq-screens-in-patient-models-define-novel-mechanisms-of-cancer-immune-evasion](https://singlecell.broadinstitute.org/single_cell/study/SCP1064/multi-modal-pooled-perturb-cite-seq-screens-in-patient-models-define-novel-mechanisms-of-cancer-immune-evasion) |
+| Frangieh et al., 2021  | Perturb-CITE-seq data from melanoma cells               | [https://singlecell.broadinstitute.org/single_cell/study/SCP...](https://singlecell.broadinstitute.org/single_cell/study/SCP1064/multi-modal-pooled-perturb-cite-seq-screens-in-patient-models-define-novel-mechanisms-of-cancer-immune-evasion) |
 | Frot et al., 2019      | RNA-seq of ovarian cancer                               | .                                                                                                                    |
 | Dixit et al., 2016     | Perturb-Seq of bone marrow-derived dendritic cells      | .                                                                                                                    |
 | Singer et al., 2016    | Naive and activated T cells (Drop-seq)                  | .                                                                                                                    |
