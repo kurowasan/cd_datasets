@@ -1,0 +1,222 @@
+title,year,conf,field,pseudo_datasets,real_datasets,time_series,interv_setting,synthetic,pseudo_real,real,interventions,small,medium,big,synth_structural,synth_observational,synth_interventional,synth_qualitative,real_structural,real_observational,real_interventional,real_qualitative,included
+Root Cause Analysis of Failures in Microservices through Causal Discovery,2022,NeurIPS,comp,,,0,1,0,1,1,1,0,0,1,1,0,0,0,1,0,0,0,1
+Low-variance Black-box Gradient Estimates for the Plackett-Luce Distribution,2019,AAAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Causal discovery from observational and interventional data across multiple environments,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Federated Causal Discovery from Heterogeneous Data,2024,ICLR,"neuro,econ",,fmri-hippo,0,1,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Bivariate Causal Discovery for Categorical Data via Classification with Optimal Label Permutation,2022,NeurIPS,,,Tubingen,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Information-Theoretic Causal Discovery and Intervention Detection over Multiple Environments,2023,AAAI,bio,,,0,1,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,1
+Generalized Independent Noise Condition for Estimating Latent Variable Causal Graphs,2020,NeurIPS,socio,,,0,0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1
+Causal Discovery via Conditional Independence Testing with Proxy Variables,2023,ICML,bio,,,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Causal Interpretation of Self-Attention in Pre-Trained Transformers,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+extttcausalAssembly: Generating Realistic Production Data for Benchmarking Causal Discovery,2024,CLeaR,,,,,,,,,,,,,,,,,,,,,0
+A Distance Covariance-based Kernel for Nonlinear Causal Clustering in Heterogeneous Populations,2021,CLeaR,bio,,,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+eCDANs: Efficient Temporal Causal Discovery from Autocorrelated and Non-stationary Data (Student Abstract),2023,AAAI,,,,,,,,,,,,,,,,,,,,,0
+"Interventions, Where and How? Experimental Design for Causal Models at Scale",2022,NeurIPS,bio,DREAM,,0,1,1,1,0,,,,,1,0,0,0,,,,,1
+Fast Scalable and Accurate Discovery of DAGs Using the Best Order Score Search and Grow-Shrink Trees,2023,NeurIPS,neuro,,,0,0,1,1,1,0,0,0,1,1,1,0,1,0,0,0,1,1
+Differentiable Causal Discovery from Interventional Data,2020,NeurIPS,bio,,Sachs,0,1,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,1
+Causal Discovery in Hawkes Processes by Minimum Description Length,2022,AAAI,econ,,,1,0,1,0,1,0,1,0,0,1,0,0,1,0,0,0,1,1
+Causal Discovery with Hidden Confounders using the Algorithmic Markov Condition,2023,UAI,bio,,,0,0,1,0,1,0,1,0,0,1,0,0,1,0,0,0,1,1
+On the Completeness of Causal Discovery in the Presence of Latent Confounding with Tiered Background Knowledge,2020,AISTATS,,,,,,,,,,,,,,,,,,,,,0
+Local Causal Discovery with Linear non-Gaussian Cyclic Models,2024,AISTATS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Residual Similarity Based Conditional Independence Test and Its Application in Causal Discovery,2022,AAAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Nonlinear Causal Discovery with Latent Confounders,2023,ICML,bio,,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,1
+Improving Causal Discovery By Optimal Bayesian Network Learning,2021,AAAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Causal Discovery for Non-stationary Non-linear Time Series Data Using Just-In-Time Modeling,2023,CLeaR,,,,1,0,1,0,0,,,,,1,0,0,0,,,,,1
+BayesDAG: Gradient-Based Posterior Inference for Causal Discovery,2023,NeurIPS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,1,0,0,1,1,0,0,1
+Causal Layering via Conditional Entropy,2024,CLeaR,,,,,,,,,,,,,,,,,,,,,0
+Bivariate Causal Discovery using Bayesian Model Selection,2023,ICML,,,Tubingen,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Recursive Causal Structure Learning in the Presence of Latent Variables and Selection Bias,2021,NeurIPS,,bnlearn,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+MissDAG: Causal Discovery in the Presence of Missing Data with Continuous Additive Noise Models,2022,NeurIPS,bio,DREAM,,0,0,1,1,0,,,,,1,0,0,1,,,,,1
+Identification of Causal Structure in the Presence of Missing Data with Additive Noise Model,2023,AAAI,health,,,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+DAG-GNN: DAG Structure Learning with Graph Neural Networks,2019,ICML,"other,bio",bnlearn,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,1,1,0,0,1,1
+Greedy equivalence search in the presence of latent confounders,2022,UAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Diffusion Models for Causal Discovery via Topological Ordering,2022,ICLR,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Causal Discovery under Off-Target Interventions,2024,AISTATS,,,,,,,,,,,,,,,,,,,,,0
+Distinguishing Cause from Effect on Categorical Data: The Uniform Channel Model,2023,CLeaR,other,,,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Confidence in causal discovery with linear causal models,2021,UAI,,,Tubingen,0,0,1,0,1,0,1,0,0,1,0,1,0,1,0,1,0,1
+Differentially Private Nonlinear Causal Discovery from Numerical Data,2023,AAAI,bio,,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Amortized Causal Discovery: Learning to Infer Causal Graphs from Time-Series Data,2020,CLeaR,neuro,Smith-fmri,,1,0,0,1,0,,,,,1,0,0,0,,,,,1
+Sample Complexity of Distinguishing Cause from Effect,2023,AISTATS,,,,,,,,,,,,,,,,,,,,,0
+Learning Relational Causal Models with Cycles through Relational Acyclification,2022,AAAI,other,,,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Independence Testing-Based Approach to Causal Discovery under Measurement Error and Linear Non-Gaussian Models,2022,NeurIPS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+DiBS: Differentiable Bayesian Structure Learning,2021,NeurIPS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,1,1,0,1,0,0,0,1
+Differentiable Causal Discovery Under Unmeasured Confounding,2020,AISTATS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,1,1
+Learning Linear Non-Gaussian Polytree Models,2022,UAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Local Causal Discovery for Estimating Causal Effects,2023,CLeaR,,bnlearn,,0,0,1,1,0,,,,,1,0,1,0,,,,,1
+Identification of Linear Non-Gaussian Latent Hierarchical Structure,2022,ICML,socio,,,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Identification of Partially Observed Linear Causal Models: Graphical Conditions for the Non-Gaussian and Heterogeneous Cases,2021,NeurIPS,,,,0,1,1,0,0,,,,,1,0,0,0,,,,,1
+Bootstrap aggregation and confidence measures to improve time series causal discovery,2023,CLeaR,,,,1,0,1,0,0,,,,,1,0,0,0,,,,,1
+Quantile Causal Discovery,2020,ICML,,,Tubingen,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+High-recall causal discovery for autocorrelated time series with latent confounders,2020,NeurIPS,,,,1,0,1,0,0,,,,,1,0,0,0,,,,,1
+The Causality for Climate Competition,2019,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Causal Discovery with General Non-Linear Relationships using Non-Linear ICA,2019,UAI,neuro,,fmri-hippo,0,1,1,0,1,1,1,0,0,1,0,0,0,1,0,0,1,1
+Causal Structure Learning for Latent Intervened Non-stationary Data,2023,ICML,earth,,,1,1,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+DAG Learning on the Permutahedron,2023,ICLR,bio,Syntren,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Causal Discovery in Linear Latent Variable Models Subject to Measurement Error,2022,NeurIPS,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Typing assumptions improve identification in causal discovery,2021,CLeaR,,bnlearn,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Causal structure learning from time series: Large regression coefficients may predict causal links better in practice than small p-values,2020,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+A Scale-Invariant Sorting Criterion to Find a Causal Order in Additive Noise Models,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+NODAGS-Flow: Nonlinear Cyclic Causal Structure Learning,2023,AISTATS,bio,,Frangieh,0,1,1,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1
+Constraint-Based Causal Discovery using Partial Ancestral Graphs in the presence of Cycles,2020,UAI,,,,,,,,,,,,,,,,,,,,,0
+Evaluation of Causal Structure Learning Algorithms via Risk Estimation,2020,UAI,,,,,,,,,,,,,,,,,,,,,0
+A Simultaneous Discover-Identify Approach to Causal Inference in Linear Models,2020,AAAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+RCD: Repetitive causal discovery of linear non-Gaussian acyclic models with latent confounders,2020,AISTATS,socio,,general-survey,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Causal Discovery in Semi-Stationary Time Series,2024,NeurIPS,earth,,,1,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1
+Local Constraint-Based Causal Discovery under Selection Bias,2022,CLeaR,bio,,,0,1,1,0,1,1,0,0,1,1,0,0,0,1,0,1,0,1
+Constraint-based Causal Structure Learning with Consistent Separating Sets,2019,NeurIPS,,bnlearn,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Sampling and Counting Acyclic Orientations in Chordal Graphs (Student Abstract),2022,AAAI,,,,,,,,,,,,,,,,,,,,,0
+Causal Discovery and Forecasting in Nonstationary Environments with State-Space Models,2019,ICML,econ,,,1,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,0,1
+Bayesian Active Causal Discovery with Multi-Fidelity Experiments,2023,NeurIPS,bio,DREAM,,0,1,1,1,0,,,,,1,1,1,0,,,,,1
+Nyström M-Hilbert-Schmidt Independence Criterion,2023,UAI,,,Tubingen,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery,2023,ICLR,,,,1,0,0,1,0,,,,,1,0,0,0,,,,,1
+On the sample complexity of conditional independence testing with Von Mises estimator with application to causal discovery,2024,ICML,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Evaluating Temporal Observation-Based Causal Discovery Techniques Applied to Road Driver Behaviour,2023,CLeaR,,,,,,,,,,,,,,,,,,,,,0
+Towards Robust Relational Causal Discovery,2019,UAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Large-Scale Differentiable Causal Discovery of Factor Graphs,2022,NeurIPS,bio,,Frangieh,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1
+Latent Hierarchical Causal Structure Discovery with Rank Constraints,2022,NeurIPS,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Causal Discovery Under Local Privacy,2024,CLeaR,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Learning DAGs from Data with Few Root Causes,2023,NeurIPS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Extracting the Multiscale Causal Backbone of Brain Dynamics,2023,CLeaR,neuro,,,1,0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1
+Federated Causality Learning with Explainable Adaptive Optimization,2023,AAAI,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+NTS-NOTEARS: Learning Nonparametric DBNs With Prior Knowledge,2021,AISTATS,"neuro,sports",Smith-fmri,,1,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Causal additive models with unobserved variables,2021,UAI,neuro,Smith-fmri,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Iterative Causal Discovery in the Possible Presence of Latent Confounders and Selection Bias,2021,NeurIPS,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Learning Granger Causality from Instance-wise Self-attentive Hawkes Processes,2024,AISTATS,other,,,1,0,0,1,1,0,0,1,0,1,1,0,0,1,1,0,0,1
+Integrating overlapping datasets using bivariate causal discovery,2019,AAAI,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Differentiable DAG Sampling,2022,ICLR,bio,Syntren,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Multi-Level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance,2023,AAAI,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+CausalCity: Complex Simulations with Agency for Causal Discovery and Reasoning,2021,CLeaR,,,,,,,,,,,,,,,,,,,,,0
+Causal Discovery from Multiple Data Sets with Non-Identical Variable Sets,2020,AAAI,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Ordinal causal discovery,2022,UAI,bio,,"Sachs,Tubingen",0,0,1,0,1,1,1,0,0,1,0,0,0,,,,,1
+Specific and Shared Causal Relation Modeling and Mechanism-Based Clustering,2019,NeurIPS,"bio,neuro",,"Sachs,fmri-hippo",0,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,1
+Foundations of Testing for Finite-Sample Causal Discovery,2024,ICML,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Higher Order Kernel Mean Embeddings to Capture Filtrations of Stochastic Processes,2021,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Vector Causal Inference between Two Groups of Variables,2022,AAAI,earth,,,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Permutation-Based Causal Structure Learning with Unknown Intervention Targets,2019,UAI,bio,,Sachs,0,1,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Novel Ordering-based Approaches for Causal Structure Learning in the Presence of Unobserved Variables,2022,AAAI,,bnlearn,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Root Cause Analysis In Microservice Using Neural Granger Causal Discovery,2024,AAAI,,,,,,,,,,,,,,,,,,,,,0
+CASTLE: Regularization via Auxiliary Causal Graph Discovery,2020,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+BaCaDI: Bayesian Causal Discovery with Unknown Interventions,2022,AISTATS,bio,SERGIO,,0,1,1,1,0,,,,,1,0,1,0,,,,,1
+Ordering-Based Causal Structure Learning in the Presence of Latent Variables,2019,AISTATS,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Causal discovery under a confounder blanket,2022,UAI,bio,,,0,0,1,0,1,1,1,0,0,1,0,1,0,0,0,0,1,1
+Truncated Matrix Power Iteration for Differentiable DAG Learning,2022,NeurIPS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Towards the Disappearing Truth: Fine-Grained Joint Causal Influences Learning with Hidden Variable-Driven Causal Hypergraphs in Time Series,2024,AAAI,,,,,,,,,,,,,,,,,,,,,0
+Efficient Intervention Design for Causal Discovery with Latents,2020,ICML,,,,,,,,,,,,,,,,,,,,,0
+Learning Large DAGs by Combining Continuous Optimization and Feedback Arc Set Heuristics,2021,AAAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Optimal Transport for Structure Learning Under Missing Data,2024,ICML,bio,DREAM,Sachs,0,1,1,1,1,1,1,0,1,1,0,0,0,1,0,0,0,1
+Causal Discovery in Physical Systems from Videos,2020,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Discovery of extended summary graphs in time series,2022,UAI,neuro,Smith-fmri,,1,0,1,1,0,,,,,1,0,0,0,,,,,1
+Causal Bandits without prior knowledge using separating sets,2020,CLeaR,,,,,,,,,,,,,,,,,,,,,0
+Effective Causal Discovery under Identifiable Heteroscedastic Noise Model,2023,AAAI,bio,,"Sachs,Tubingen",0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+TNPAR: Topological Neural Poisson Auto-Regressive Model for Learning Granger Causal Structure from Event Sequences,2023,AAAI,other,,,1,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Causal Autoregressive Flows,2020,AISTATS,,,Tubingen,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,1,0,1
+Context-Specific Causal Discovery for Categorical Data Using Staged Trees,2021,AISTATS,"health,earth",,,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Directed Graphical Models and Causal Discovery for Zero-Inflated Data,2020,CLeaR,bio,,,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1
+Provable Subspace Identification Under Post-Nonlinear Mixtures,2022,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Causal Representation Learning Made Identifiable by Grouping of Observational Variables,2023,ICML,bio,SERGIO,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Measurement Dependence Inducing Latent Causal Models,2019,UAI,,,,0,0,0,0,1,0,0,1,0,,,,,0,0,0,1,1
+Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis,2022,NeurIPS,bio,,Sachs,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1
+Adaptivity Complexity for Causal Graph Discovery,2023,UAI,,,,,,,,,,,,,,,,,,,,,0
+Rhino: Deep Causal Temporal Relationship Learning With History-dependent Noise,2022,ICLR,"bio,neuro","DREAM,Smith-fmri",,1,0,1,1,0,,,,,1,0,0,0,,,,,1
+Assumption violations in causal discovery and the robustness of score matching,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Causal Discovery in Linear Structural Causal Models with Deterministic Relations,2021,CLeaR,stocks,,,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Approximating Algorithmic Conditional Independence for Discrete Data,2019,AAAI,,bnlearn,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Stable Differentiable Causal Discovery,2023,ICML,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Identifying Confounding from Causal Mechanism Shifts,2024,AISTATS,bio,,Sachs,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1
+Structure Learning with Continuous Optimization: A Sober Look and Beyond,2023,CLeaR,,,,,,,,,,,,,,,,,,,,,0
+Testing Conditional Independence on Discrete Data using Stochastic Complexity,2019,AISTATS,,bnlearn,,0,0,0,1,0,,,,,1,0,0,0,,,,,1
+Identification of Causal Structure with Latent Variables Based on Higher Order Cumulants,2023,AAAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Collaborative Causal Discovery with Atomic Interventions,2021,NeurIPS,,bnlearn,,0,1,0,1,0,,,,,1,0,0,0,,,,,1
+Discovering contemporaneous and lagged causal relations in autocorrelated nonlinear time series datasets,2020,UAI,,,,1,0,1,0,0,,,,,1,0,0,0,,,,,1
+Efficient SAGE Estimation via Causal Structure Learning,2023,AISTATS,,,,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Meek Separators and Their Applications in Targeted Causal Discovery,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+A Bayesian nonparametric conditional two-sample test with an application to Local Causal Discovery,2020,UAI,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Causal Discovery with Fewer Conditional Independence Tests,2024,ICML,,,,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Enhancing Causal Discovery from Robot Sensor Data in Dynamic Scenarios,2023,CLeaR,neuro,Smith-fmri,,1,0,1,1,1,0,1,0,0,1,0,0,0,0,1,0,1,1
+From Temporal to Contemporaneous Iterative Causal Discovery in the Presence of Latent Confounders,2023,ICML,earth,,,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Neuropathic Pain Diagnosis Simulator for Causal Discovery Algorithm Evaluation,2019,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Conditional Independence Testing with Heteroskedastic Data and Applications to Causal Discovery,2023,NeurIPS,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Cause-effect inference through spectral independence in linear dynamical systems: theoretical foundations,2021,CLeaR,neuro,,,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+Reliable Causal Discovery with Improved Exact Search and Weaker Assumptions,2022,NeurIPS,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Likelihood-Free Overcomplete ICA and Applications in Causal Discovery,2019,NeurIPS,bio,,"Sachs,Tubingen",1,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Causal Discovery for time series from multiple datasets with latent contexts,2023,UAI,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Learning Causal Models under Independent Changes,2023,NeurIPS,bio,SERGIO,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,1,1
+Reframed GES with a Neural Conditional Dependence Measure,2022,UAI,,bnlearn,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy to Game,2021,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Local Causal Structure Learning in the Presence of Latent Variables,2024,ICML,bio,bnlearn,Wille,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Multi-granularity Causal Structure Learning,2023,AAAI,"bio,neuro",,"Sachs,fmri-hippo",0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Causal discovery with heterogeneous observational data,2022,UAI,,,,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Causal Discovery from Poisson Branching Structural Causal Model Using High-Order Cumulant with Path Analysis,2024,AAAI,sports,,,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1
+DynGFN: Towards Bayesian Inference of Gene Regulatory Networks with GFlowNets,2023,NeurIPS,,,,1,0,1,0,1,0,0,0,1,1,1,0,0,0,1,0,0,1
+Scalable and Flexible Causal Discovery with an Efficient Test for Adjacency,2024,ICML,bio,,Frangieh,0,1,1,0,1,1,0,0,1,1,0,0,0,0,0,1,0,1
+Discovering Agents (Abstract Reprint),2024,AAAI,,,,,,,,,,,,,,,,,,,,,0
+Integer Programming for Causal Structure Learning in the Presence of Latent Variables,2021,ICML,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+Robust contrastive learning and nonlinear ICA in the presence of outliers,2019,UAI,neuro,,fmri-hippo,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+Characterization and Learning of Causal Graphs with Small Conditioning Sets,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Gradient-Based Neural DAG Learning,2019,ICLR,bio,Syntren,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Discovering Mixtures of Structural Causal Models from Time Series Data,2023,ICML,,"DREAM,Smith-fmri",,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0,0,0,1
+Causal discovery in a complex industrial system: A time series benchmark,2023,CLeaR,,,,,,,,,,,,,,,,,,,,,0
+A Hybrid Causal Structure Learning Algorithm for Mixed-Type Data,2022,AAAI,,bnlearn,,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0,1,1
+Robustness of Algorithms for Causal Structure Learning to Hyperparameter Choice,2023,CLeaR,bio,Syntren,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Variance Minimization in the Wasserstein Space for Invariant Causal Prediction,2021,AISTATS,,,,0,1,1,0,0,,,,,1,0,0,0,,,,,1
+Near-Optimal Multi-Perturbation Experimental Design for Causal Structure Learning,2021,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Efficient Neural Causal Discovery without Acyclicity Constraints,2021,ICLR,,bnlearn,,0,1,1,1,0,,,,,1,0,0,0,,,,,1
+Beyond the Markov Equivalence Class: Extending Causal Discovery under Latent Confounding,2023,CLeaR,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+DAGs with No Curl: An Efficient DAG Structure Learning Approach,2021,ICML,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Learning Causal Dynamics Models in Object-Oriented Environments,2024,ICML,,,,,,,,,,,,,,,,,,,,,0
+Connectivity-contrastive learning: Combining causal discovery and representation learning for multimodal data,2023,AISTATS,,SERGIO,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems,2022,ICLR,,,,,,,,,,,,,,,,,,,,,0
+BCD Nets: Scalable Variational Approaches for Bayesian Causal Discovery,2021,NeurIPS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,1,0,1
+Trust Your 𝛁: Gradient-based Intervention Targeting for Causal Discovery,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Boosting Causal Discovery via Adaptive Sample Reweighting,2023,ICLR,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+CUTS: Neural Causal Discovery from Irregular Time-Series Data,2023,ICLR,,Smith-fmri,,1,0,1,1,0,,,,,1,0,0,0,,,,,1
+Score matching enables causal discovery of nonlinear additive noise models,2022,ICML,,Syntren,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data,2022,NeurIPS,,,,0,1,1,0,0,,,,,1,0,0,0,,,,,1
+Causal Discovery from Subsampled Time Series with Proxy Variables,2023,NeurIPS,health,,,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1
+Scalable Intervention Target Estimation in Linear Models,2021,NeurIPS,bio,,"Sachs,Dixit",0,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0,1
+Self-Compatibility: Evaluating Causal Discovery without Ground Truth,2023,AISTATS,,,,,,,,,,,,,,,,,,,,,0
+Bivariate Causal Discovery via Conditional Divergence,2022,CLeaR,,DREAM,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Global Optimality in Bivariate Gradient-based DAG Learning,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Cause-Effect Inference in Location-Scale Noise Models: Maximum Likelihood vs. Independence Testing,2023,NeurIPS,,,Tubingen,0,0,1,1,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Testing Independence Between Linear Combinations for Causal Discovery,2021,AAAI,bio,bnlearn,,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+On the Identifiability of Switching Dynamical Systems,2023,ICML,,,,,,,,,,,,,,,,,,,,,0
+Causal Discovery with Mixed Linear and Nonlinear Additive Noise Models: A Scalable Approach,2024,CLeaR,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+On the Recoverability of Causal Relations from Temporally Aggregated I.I.D. Data,2024,ICML,,,,,,,,,,,,,,,,,,,,,0
+Challenges and Considerations in the Evaluation of Bayesian Causal Discovery,2024,ICML,,,,,,,,,,,,,,,,,,,,,0
+A Large Scale Search Dataset for Unbiased Learning to Rank,2022,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Learning the Structure of a Nonstationary Vector Autoregression,2019,AISTATS,econ,,,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Active causal structure learning with advice,2023,ICML,,,,,,,,,,,,,,,,,,,,,0
+Reinforcement Causal Structure Learning on Order Graph,2022,AAAI,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Score-Based Causal Discovery of Latent Variable Causal Models,2024,ICML,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
+ABCD-Strategy: Budgeted Experimental Design for Targeted Causal Structure Discovery,2019,AISTATS,,,,,,,,,,,,,,,,,,,,,0
+"Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models",2024,AISTATS,neuro,,,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+A Multivariate Causal Discovery based on Post-Nonlinear Model,2022,CLeaR,"neuro,socio",Smith-fmri,general-survey,0,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Directed Cyclic Graph for Causal Discovery from Multivariate Functional Data,2023,NeurIPS,neuro,,,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1
+Differentiable Causal Discovery Under Latent Interventions,2022,CLeaR,bio,,Sachs,0,1,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Causal Discovery with Score Matching on Additive Models with Arbitrary Noise,2023,CLeaR,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+FedCSL: A Scalable and Accurate Approach to Federated Causal Structure Learning,2024,AAAI,bio,bnlearn,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Causal Discovery from Soft Interventions with Unknown Targets: Characterization and Learning,2020,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+A Weaker Faithfulness Assumption based on Triple Interactions,2020,UAI,,,,,,,,,,,,,,,,,,,,,0
+Amortized Inference for Causal Structure Learning,2022,NeurIPS,bio,,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
+Optimal transport for causal discovery,2022,ICLR,,,Tubingen,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Differentiable Multi-Target Causal Bayesian Experimental Design,2023,ICML,,,,,,,,,,,,,,,,,,,,,0
+Learning the Finer Things: Bayesian Structure Learning at the Instantiation Level,2023,AAAI,,,,,,,,,,,,,,,,,,,,,0
+Optimal Kernel Choice for Score Function-based Causal Discovery,2024,ICML,,bnlearn,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Practical Algorithms for Orientations of Partially Directed Graphical Models,2023,CLeaR,,,,,,,,,,,,,,,,,,,,,0
+Rank-Based Causal Discovery for Post-Nonlinear Models,2023,AISTATS,,,,0,0,1,0,0,,,,,1,1,0,0,,,,,1
+Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning,2022,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+CUTS+: High-dimensional Causal Discovery from Irregular Time-series,2023,AAAI,"earth,bio",DREAM,,1,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,1,1
+Active Bayesian Causal Inference,2022,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+Causal Discovery with Reinforcement Learning,2019,ICLR,socio,,general-survey,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1
+Adaptive Online Experimental Design for Causal Discovery,2024,ICML,,,,,,,,,,,,,,,,,,,,,0
+A Meta-Reinforcement Learning Algorithm for Causal Discovery,2022,CLeaR,,,,0,1,1,0,0,,,,,1,0,0,0,,,,,1
+Causal Discovery for Linear Mixed Data,2022,CLeaR,other,,,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,0,1
+Efficient Causal Structure Learning from Multiple Interventional Datasets with Unknown Targets,2022,AAAI,,,,0,1,1,1,0,,,,,1,0,0,0,,,,,1
+Bicycle: Intervention-Based Causal Discovery with Cycles,2024,CLeaR,bio,,Frangieh,0,1,1,0,1,1,0,1,0,1,0,1,0,0,0,1,1,1
+A Versatile Causal Discovery Framework to Allow Causally-Related Hidden Variables,2023,ICLR,socio,,,0,0,1,0,1,0,0,1,0,1,0,0,0,1,0,0,1,1
+Nothing but Regrets - Privacy-Preserving Federated Causal Discovery,2023,AISTATS,,bnlearn,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Scalable Causal Discovery with Score Matching,2023,CLeaR,bio,Syntren,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
+Sample Complexity Bounds for Score-Matching: Causal Discovery and Generative Modeling,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
+IDYNO: Learning Nonparametric DAGs from Interventional Dynamic Data,2022,ICML,"comp,other",,,1,1,1,1,0,,,,,1,0,0,0,,,,,1
+Causal Discovery with Latent Confounders Based on Higher-Order Cumulants,2023,ICML,econ,,,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0,1,1
+Branch-Price-and-Cut for Causal Discovery,2023,CLeaR,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
