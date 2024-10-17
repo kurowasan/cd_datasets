@@ -2,7 +2,7 @@
 In this repository, we make accessible the list of curated papers used in the systematic review presented in Section 4 and the code used to analyze it. We also give a list of pseudo-real and real-world datasets with their links and references.
 
 ## 📝 Systematic Review
-The file `retrieve_papers.py` contains the code used to retrieve causal discovery papers using the Semantic Scholar API. To use it, you may need to get an API key (go to [https://www.semanticscholar.org/product/api#api-key-form]) and add your API key by replacing `XXX` at the line `headers = {'x-api-key': 'XXX'}`.
+The file `retrieve_papers.py` contains the code used to retrieve causal discovery papers using the Semantic Scholar API. To use it, you may need to get an API key (go [https://www.semanticscholar.org/product/api#api-key-form](here)) and add your API key by replacing `XXX` at the line `headers = {'x-api-key': 'XXX'}`.
 
 The CSV file `curated_papers.csv` contains the paper found with several annotations that were made manually. The annotations indicate if the paper was included, what type of dataset and metrics was used, etc. See Appendix A.1 for a complete presentation of the different fields.
 
@@ -26,7 +26,7 @@ Here is a list of datasets that were discussed in our paper.
 | Tu et al., 2019                  | Neuropathic Pain Diagnosis Simulator | [https://github.com/TURuibo/Neuropathic-Pain-Diagnosis-Simulator](https://github.com/TURuibo/Neuropathic-Pain-Diagnosis-Simulator) |
 | Schaffter et al., 2011           | GeneNetWeaver                    | [https://gnw.sourceforge.net/genenetweaver.html](https://gnw.sourceforge.net/genenetweaver.html) |
 | Smith et al., 2011               | NetSim                           | [https://www.fmrib.ox.ac.uk/datasets/netsim/](https://www.fmrib.ox.ac.uk/datasets/netsim/)  |
-| Marbach et al., 2010             | DREAM4                           | [https://www.synapse.org/Synapse:syn3049712/wiki/74630]                                                                                           |
+| Marbach et al., 2010             | DREAM4                           | [https://www.synapse.org/Synapse:syn3049712/wiki/74630](https://www.synapse.org/Synapse:syn3049712/wiki/74630)                                                                                           |
 | Van den Bulcke et al., 2006      | SynTReN                          | [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43) |
 
 ### Gene regulatory network datasets
