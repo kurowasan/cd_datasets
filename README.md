@@ -10,7 +10,7 @@ Finally, the Python code `analyze.py` can be used to analyze the `curated_papers
 
 
 ## 📖 Causal Discovery Datasets
-Here is a list of datasets that were discussed in our paper.
+Here is a list of datasets that were discussed in our paper with links to download them.
 
 ### Pseudo-real datasets
 
