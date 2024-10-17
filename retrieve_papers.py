@@ -6,8 +6,9 @@ import time
 import matplotlib.pyplot as plt
 import pandas as pd
 
+
 def main(verbose: bool = True) -> dict:
-    venues = ['NeurIPS', 'ICLR', 'ICML', 'AISTATS', 'UAI', 'AAAI', 'CLEaR', 'JMLR']
+    venues = ['NeurIPS', 'ICLR', 'ICML', 'AISTATS', 'UAI', 'AAAI', 'CLeaR']
 
     query_params = {'query': '"causal discovery" | "causal structure learning" | "DAG learning" | "DAG structure learning"',
                     'fields': 'title,year,venue,abstract,url',
@@ -45,6 +46,7 @@ def main(verbose: bool = True) -> dict:
         json.dump(all_papers, f, indent=2)
 
     return all_papers
+
 
 def format_short_name(df: pd.DataFrame) -> pd.DataFrame:
     short_names = {"AAAI Conference on Artificial Intelligence": "AAAI",
