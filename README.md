@@ -46,6 +46,7 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 ### Brain imaging datasets
 | Dataset                      | Link raw data                                               | Link preprocessed                                                                                   |
 |------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Thompson et al., 2020        | [https://openneuro.org/datasets/ds002799/versions/1.0.4](https://openneuro.org/datasets/ds002799/versions/1.0.4) | same |
 | Shah et al., 2018            | [https://github.com/shahpreya/MTLnet](https://github.com/shahpreya/MTLnet) | -                                                                                                   |
 | Poldrack et al., 2015        | [https://openneuro.org/datasets/ds000031/](https://openneuro.org/datasets/ds000031/) | .                                                                                                   |
 | Di Martino et al., 2014      | [https://fcon_1000.projects.nitrc.org/indi/abide/](https://fcon_1000.projects.nitrc.org/indi/abide/) | [http://preprocessed-connectomes-project.org/abide/download.html](http://preprocessed-connectomes-project.org/abide/download.html) |
