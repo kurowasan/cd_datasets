@@ -44,12 +44,12 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | [Wille et al., 2004](https://link.springer.com/content/pdf/10.1186/gb-2004-5-11-r92.pdf)     | Microarray of *A. thaliana* gene expression             | [link](https://link.springer.com/article/10.1186/gb-2004-5-11-r92#MOESM1)                                                                                                                     |
 
 ### Brain imaging datasets
-| Dataset                      | Open | Link raw data                                               | Link preprocessed                                                                                   |
-|------------------------------|------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Shah et al., 2018            | Yes  | [https://github.com/shahpreya/MTLnet](https://github.com/shahpreya/MTLnet) | -                                                                                                   |
-| Poldrack et al., 2015        | Yes  | [https://openneuro.org/datasets/ds000031/](https://openneuro.org/datasets/ds000031/) | .                                                                                                   |
-| Di Martino et al., 2014      | Yes  | [https://fcon_1000.projects.nitrc.org/indi/abide/](https://fcon_1000.projects.nitrc.org/indi/abide/) | [http://preprocessed-connectomes-project.org/abide/download.html](http://preprocessed-connectomes-project.org/abide/download.html) |
-| Van Essen et al., 2013       | Yes    | [https://db.humanconnectome.org.](https://db.humanconnectome.org.)                                                           | .                                                                                                   |
-| Ramsey et al., 2010          | Yes  | [https://openneuro.org/datasets/ds000003/versions/00001](https://openneuro.org/datasets/ds000003/versions/00001) | [https://github.com/cabal-cmu/Feedback-Discovery](https://github.com/cabal-cmu/Feedback-Discovery) |
+| Dataset                      | Link raw data                                               | Link preprocessed                                                                                   |
+|------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Shah et al., 2018            | [https://github.com/shahpreya/MTLnet](https://github.com/shahpreya/MTLnet) | -                                                                                                   |
+| Poldrack et al., 2015        | [https://openneuro.org/datasets/ds000031/](https://openneuro.org/datasets/ds000031/) | .                                                                                                   |
+| Di Martino et al., 2014      | [https://fcon_1000.projects.nitrc.org/indi/abide/](https://fcon_1000.projects.nitrc.org/indi/abide/) | [http://preprocessed-connectomes-project.org/abide/download.html](http://preprocessed-connectomes-project.org/abide/download.html) |
+| Van Essen et al., 2013       | [https://db.humanconnectome.org.](https://db.humanconnectome.org.)                                                           | .                                                                                                   |
+| Ramsey et al., 2010          | [https://openneuro.org/datasets/ds000003/versions/00001](https://openneuro.org/datasets/ds000003/versions/00001) | [https://github.com/cabal-cmu/Feedback-Discovery](https://github.com/cabal-cmu/Feedback-Discovery) |
 | Wang et al., 2003            | .    | .                                                           | .                                                                                                   |
 
