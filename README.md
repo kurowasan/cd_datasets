@@ -26,6 +26,7 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | Tu et al., 2019                  | Neuropathic Pain Diagnosis Simulator | [https://github.com/TURuibo/Neuropathic-Pain-Diagnosis-Simulator](https://github.com/TURuibo/Neuropathic-Pain-Diagnosis-Simulator) |
 | Schaffter et al., 2011           | GeneNetWeaver                    | [https://gnw.sourceforge.net/genenetweaver.html](https://gnw.sourceforge.net/genenetweaver.html) |
 | Smith et al., 2011               | NetSim                           | [https://www.fmrib.ox.ac.uk/datasets/netsim/](https://www.fmrib.ox.ac.uk/datasets/netsim/)  |
+| Hyvarinen et al., 2010       | .    | .                                                           | .                                                                                                   |
 | Marbach et al., 2010             | DREAM4                           | [https://www.synapse.org/Synapse:syn3049712/wiki/74630](https://www.synapse.org/Synapse:syn3049712/wiki/74630)                                                                                           |
 | Van den Bulcke et al., 2006      | SynTReN                          | [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1...](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-43) |
 
@@ -36,10 +37,10 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | Replogle et al., 2022  | Perturb-seq (cell line RPE1)                            | [https://github.com/causalbench/causalbench](https://github.com/causalbench/causalbench)                             |
 | Frangieh et al., 2021  | Perturb-CITE-seq data from melanoma cells               | [https://singlecell.broadinstitute.org/single_cell/study/SCP...](https://singlecell.broadinstitute.org/single_cell/study/SCP1064/multi-modal-pooled-perturb-cite-seq-screens-in-patient-models-define-novel-mechanisms-of-cancer-immune-evasion) |
 | Frot et al., 2019      | RNA-seq of ovarian cancer                               | .                                                                                                                    |
-| Dixit et al., 2016     | Perturb-Seq of bone marrow-derived dendritic cells      | .                                                                                                                    |
-| Singer et al., 2016    | Naive and activated T cells (Drop-seq)                  | .                                                                                                                    |
+| Dixit et al., 2016     | Perturb-Seq of bone marrow-derived dendritic cells      | [https://www.cell.com/cell/fulltext/S0092-8674(16)31610-5](https://www.cell.com/cell/fulltext/S0092-8674(16)31610-5)                                                                                                                    |
+| Singer et al., 2016    | Naive and activated T cells (Drop-seq)                  | [https://www.cell.com/cell/fulltext/S0092-8674(16)31149-7](https://www.cell.com/cell/fulltext/S0092-8674(16)31149-7)(https://www.cell.com/cell/fulltext/S0092-8674(16)31149-7)                                                                                                                    |
 | Klein et al., 2015     | scRNAseq data of mouse embryonic stem cells             | .                                                                                                                    |
-| Sachs et al., 2005     | Flow cytometry dataset of immune cells                  | .                                                                                                                    |
+| Sachs et al., 2005     | Flow cytometry dataset of immune cells                  | [https://www.bnlearn.com/research/sachs05/](https://www.bnlearn.com/research/sachs05/)                                                                                                                    |
 | [Wille et al., 2004](https://link.springer.com/content/pdf/10.1186/gb-2004-5-11-r92.pdf)     | Microarray of *A. thaliana* gene expression             | [link](https://link.springer.com/article/10.1186/gb-2004-5-11-r92#MOESM1)                                                                                                                     |
 
 ### Brain imaging datasets
@@ -49,7 +50,6 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | Poldrack et al., 2015        | Yes  | [https://openneuro.org/datasets/ds000031/](https://openneuro.org/datasets/ds000031/) | .                                                                                                   |
 | Di Martino et al., 2014      | Yes  | [https://fcon_1000.projects.nitrc.org/indi/abide/](https://fcon_1000.projects.nitrc.org/indi/abide/) | [http://preprocessed-connectomes-project.org/abide/download.html](http://preprocessed-connectomes-project.org/abide/download.html) |
 | Van Essen et al., 2013       | Yes    | [https://db.humanconnectome.org.](https://db.humanconnectome.org.)                                                           | .                                                                                                   |
-| Hyvarinen et al., 2010       | .    | .                                                           | .                                                                                                   |
 | Ramsey et al., 2010          | Yes  | [https://openneuro.org/datasets/ds000003/versions/00001](https://openneuro.org/datasets/ds000003/versions/00001) | [https://github.com/cabal-cmu/Feedback-Discovery](https://github.com/cabal-cmu/Feedback-Discovery) |
 | Wang et al., 2003            | .    | .                                                           | .                                                                                                   |
 
