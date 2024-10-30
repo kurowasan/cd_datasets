@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib_venn import venn3
 
 
-def plot_distribution_type_dataset(df: pd.DataFrame, output_path: str, verbose: bool = True):
+def plot_distribution_type_dataset(df, output_path: str, verbose: bool = True):
     """
     Get the distribution of the type of dataset (synth, pseudo-real, real).
     Plot a Venn diagram similar to Fig.2.
@@ -52,9 +52,9 @@ def plot_distribution_type_dataset(df: pd.DataFrame, output_path: str, verbose: 
         print(f"Contains real datasets: {len(df[df['real'] == 1]) / len(df) * 100:.1f}%")
 
 
-def plot_distribution_fields(df: pd.DataFrame, output_path: str, verbose: bool = True):
+def plot_distribution_fields(df, output_path: str, verbose: bool = True):
     """
-    Plot the distribution of the fields of datasets similar to Fig.3.
+    Plot the distribution of the fields of dataset similar to Fig.3.
     Args:
         df: dataframe containing the curated papers
         output_path: the path to save the plot
@@ -85,7 +85,7 @@ def plot_distribution_fields(df: pd.DataFrame, output_path: str, verbose: bool =
         print(f"Percentage of papers having only Sachs as real-world data: {len(df_only_sachs) / len_real * 100:.1f}%")
 
 
-def plot_distribution_datasets(df: pd.DataFrame, verbose: bool = True):
+def plot_distribution_datasets(df, verbose: bool = True):
     """
     Plot the distribution of the specific datasets (e.g., Sachs, bnlearn) used in the papers.
     Args:
@@ -106,7 +106,7 @@ def plot_distribution_datasets(df: pd.DataFrame, verbose: bool = True):
     print(datasets_count)
 
 
-def plot_distribution_metrics(df: pd.DataFrame, output_path: str, verbose: bool = True):
+def plot_distribution_metrics(df, output_path: str, verbose: bool = True):
     """
     Plot the distribution of the type of metrics used in the papers similar to Table 1.
     Args:
@@ -125,6 +125,9 @@ def plot_distribution_metrics(df: pd.DataFrame, output_path: str, verbose: bool 
     real_obs = df_real['real_observational'].sum() / len(df_real) * 100
     real_int = df_real['real_interventional'].sum() / len(df_real) * 100
     real_vis = df_real['real_qualitative'].sum() / len(df_real) * 100
+
+    synth_only_struct = len(df_synth[(df_synth['synth_structural'] == 1) & (df_synth['synth_observational'] == 0) & (df_synth['synth_interventional'] == 0) & (df_synth['synth_qualitative'] == 0)]) / len(df_synth) * 100
+    real_only_struct = len(df_real[(df_real['real_structural'] == 1) & (df_real['real_observational'] == 0) & (df_real['real_interventional'] == 0) & (df_real['real_qualitative'] == 0)]) / len(df_real) * 100
 
     # save the results as a table in a csv file
     result = pd.DataFrame({
@@ -148,10 +151,12 @@ def plot_distribution_metrics(df: pd.DataFrame, output_path: str, verbose: bool 
         print(f"interventional: {real_int:.1f}%")
         real_w_interv = len(df[((df['real'] == 1) & (df['interventions'] == 1))])
         could_use_interv = len(df[((df['real'] == 1) & (df['interventions'] == 1) & (df['real_interventional'] == 0))]) / real_w_interv * 100
+        print(f"Percentage of papers using simulated data that use only structural metrics: {synth_only_struct:.1f}%")
+        print(f"Percentage of papers using real-world data that use only structural metrics: {real_only_struct:.1f}%")
         print(f"Percentage of papers using real-world data that could have used interventional metrics: {could_use_interv:.1f}%")
 
 
-def print_other_stats(df: pd.DataFrame):
+def print_other_stats(df):
     """
     Print interesting miscellaneous statistics.
     Args:
@@ -182,7 +187,6 @@ def main(output_path: str, include_sachs: bool, verbose: bool):
     print("Total number of papers: ", len(df))
     df = df[df['included'] == 1]
     print("Total number of included papers: ", len(df))
-
 
     if not include_sachs:
         # remove the papers that contain only Sachs as their real-world dataset

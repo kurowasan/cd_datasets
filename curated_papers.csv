@@ -87,7 +87,7 @@ Differentiable DAG Sampling,2022,ICLR,bio,Syntren,Sachs,0,0,1,1,1,1,1,0,0,1,0,0,
 Multi-Level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance,2023,AAAI,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
 CausalCity: Complex Simulations with Agency for Causal Discovery and Reasoning,2021,CLeaR,,,,,,,,,,,,,,,,,,,,,0
 Causal Discovery from Multiple Data Sets with Non-Identical Variable Sets,2020,AAAI,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
-Ordinal causal discovery,2022,UAI,bio,,"Sachs,Tubingen",0,0,1,0,1,1,1,0,0,1,0,0,0,,,,,1
+Ordinal causal discovery,2022,UAI,bio,,"Sachs,Tubingen",0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
 Specific and Shared Causal Relation Modeling and Mechanism-Based Clustering,2019,NeurIPS,"bio,neuro",,"Sachs,fmri-hippo",0,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,1
 Foundations of Testing for Finite-Sample Causal Discovery,2024,ICML,,,,0,0,1,0,0,,,,,1,0,0,0,,,,,1
 Higher Order Kernel Mean Embeddings to Capture Filtrations of Stochastic Processes,2021,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
@@ -166,7 +166,7 @@ DAGs with No Curl: An Efficient DAG Structure Learning Approach,2021,ICML,bio,,S
 Learning Causal Dynamics Models in Object-Oriented Environments,2024,ICML,,,,,,,,,,,,,,,,,,,,,0
 Connectivity-contrastive learning: Combining causal discovery and representation learning for multimodal data,2023,AISTATS,,SERGIO,,0,0,1,1,0,,,,,1,0,0,0,,,,,1
 Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems,2022,ICLR,,,,,,,,,,,,,,,,,,,,,0
-BCD Nets: Scalable Variational Approaches for Bayesian Causal Discovery,2021,NeurIPS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,1,0,1
+BCD Nets: Scalable Variational Approaches for Bayesian Causal Discovery,2021,NeurIPS,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,1,0,1,0,0,0,1
 Trust Your 𝛁: Gradient-based Intervention Targeting for Causal Discovery,2023,NeurIPS,,,,,,,,,,,,,,,,,,,,,0
 Boosting Causal Discovery via Adaptive Sample Reweighting,2023,ICLR,bio,,Sachs,0,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,1
 CUTS: Neural Causal Discovery from Irregular Time-Series Data,2023,ICLR,,Smith-fmri,,1,0,1,1,0,,,,,1,0,0,0,,,,,1
