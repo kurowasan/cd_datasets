@@ -69,6 +69,6 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | --                                                                      | Climate Prediction Center (CPC) global rainfall dataset | [link to dataset](https://psl.noaa.gov/data/gridded/tables/precipitation.html) |
 | [Pastorello et al., 2020](https://www.nature.com/articles/s41597-020-0534-3)                   | FLUXNET                                         | [link to database](https://fluxnet.org)                                            |
 | -                                                                     | Tropospheric Ozone Assessment Report (TOAR)     | [link to database](https://toar-data.org)                                          |
-| -                                                                     | CDC Influenza report                            | link to dataset                        |
+| -                                                                     | CDC Influenza report                            | [link to dataset](https://www.cdc.gov/fluview/overview/fluview-interactive.html?CDC_AAref_Val=https://www.cdc.gov/flu/weekly/fluviewinteractive.htm)                        |
 | [Eyring et al., 2016](https://gmd.copernicus.org/articles/9/1937/2016/)                       | Climate Model Intercomparison Project (CMIP)    | [link to database](https://wcrp-cmip.org)                                          |
 
