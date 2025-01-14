@@ -53,3 +53,22 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | [Ramsey et al., 2010](https://www.sciencedirect.com/science/article/pii/S105381190900977X?casa_token=ZEz6i96-VesAAAAA:4PvOwVle6XeO4iAEr4EWESUP77L73FdzF49pU59IqrTAuRp_tPFNIKMyD0Pr1n1HnHpISvZD1w6J)          | [https://openneuro.org/datasets/ds000003...](https://openneuro.org/datasets/ds000003/versions/00001) | [https://github.com/cabal-cmu/Feedback-Discovery](https://github.com/cabal-cmu/Feedback-Discovery) |
 | Wang et al., 2003            | .    | .                                                           | .                                                                                                   |
 
+
+### Earth Sciences
+| Article                                                                 | Name                                            | Link                                                                               |
+|------------------------------------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------|
+| [Kaltenborn et al., 2024](https://arxiv.org/abs/2311.03721)              | ClimateSet                                      | [link to dataset](https://climateset.github.io/)                                   |
+| [Nguyen et al., 2024](https://arxiv.org/abs/2307.01909)                  | ClimateLearn                                    | contained in ClimateSet                                                            |
+| [Yu et al., 2024](https://proceedings.neurips.cc/paper_files/paper/2023/file/45fbcc01349292f5e059a0b8b02c8c3f-Paper-Datasets_and_Benchmarks.pdf)                  | ClimSim                                         | contained in ClimateSet                                                            |
+| [Watson-Parris et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002954)                       | ClimateBench                                    | contained in ClimateSet                                                            |
+| [Rasp et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002203)                         | WeatherBench                                    | contained in ClimateSet                                                            |
+| [de Witt et al., 2021](https://ojs.aaai.org/index.php/AAAI/article/view/17749)                           | RainBench                                       | contained in ClimateSet                                                            |
+| --                                                                      | KNMI Climate Explorer                           | [link to database](https://climexp.knmi.nl/)                                       |
+| --                                                                      | NCEP/NCAR 40-year reanalysis project            | [link to database](https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html)    |
+| [Hersbach et al., 2020](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803)                     | ERA reanalysis project                          | [link to database](https://cds.climate.copernicus.eu)                              |
+| --                                                                      | Climate Prediction Center (CPC) global rainfall dataset | [link to dataset](https://psl.noaa.gov/data/gridded/tables/precipitation.html) |
+| [Pastorello et al., 2020](https://www.nature.com/articles/s41597-020-0534-3)                   | FLUXNET                                         | [link to database](https://fluxnet.org)                                            |
+| --                                                                      | Tropospheric Ozone Assessment Report (TOAR)     | [link to database](https://toar-data.org)                                          |
+| --                                                                      | CDC Influenza report                            | [link to dataset](https://www.cdc.gov/flu/weekly/index.htm)                        |
+| [Eyring et al., 2016]()                       | Climate Model Intercomparison Project (CMIP)    | [link to database](https://wcrp-cmip.org)                                          |
+
