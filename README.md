@@ -79,4 +79,7 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | [Gamella et al., 2024](https://arxiv.org/pdf/2404.11341)  | Causal Chambers                            | [link to simulator](https://github.com/juangamella/causal-chamber) |
 | [Wang et al., 2023](https://openreview.net/pdf?id=JFaZ94tT8M) | MOS 6502 microprocessor | [link to dataset](https://github.com/KordingLab/LearningCausalDiscovery) |
 | [Gentzel et al., 2019](https://arxiv.org/abs/1910.05387) | Software Systems (PostgreSQL, JDK, Networking) | [link to datasets](https://groups.cs.umass.edu/kdl/causal-eval-data/) |
+| [Huang et al., 2018](https://dl.acm.org/doi/pdf/10.1145/3219819.3220104) | Archaeology data set | - |
 | [Mooij et al., 2016](https://jmlr.org/papers/v17/14-518.html) | Cause-effect pairs (Tübingen pairs) | [link to dataset](https://webdav.tuebingen.mpg.de/cause-effect/) |
+| [Byrne, B. M. 2010](https://www.taylorfrancis.com/books/mono/10.4324/9781315757421/structural-equation-modeling-amos-barbara-byrne?context=ubx&refId=e1461dd2-d391-4367-b25d-54cfb691865e) | Teacher’s burnout study. | - |
+| [Shimizu et al., 2011](https://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf) | General Social Survey | - |
