@@ -81,5 +81,5 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | [Gentzel et al., 2019](https://arxiv.org/abs/1910.05387) | Software Systems (PostgreSQL, JDK, Networking) | [link to datasets](https://groups.cs.umass.edu/kdl/causal-eval-data/) |
 | [Huang et al., 2018](https://dl.acm.org/doi/pdf/10.1145/3219819.3220104) | Archaeology data set | - |
 | [Mooij et al., 2016](https://jmlr.org/papers/v17/14-518.html) | Cause-effect pairs (Tübingen pairs) | [link to dataset](https://webdav.tuebingen.mpg.de/cause-effect/) |
-| [Byrne, B. M. 2010](https://www.taylorfrancis.com/books/mono/10.4324/9781315757421/structural-equation-modeling-amos-barbara-byrne?context=ubx&refId=e1461dd2-d391-4367-b25d-54cfb691865e) | Teacher’s burnout study. | - |
-| [Shimizu et al., 2011](https://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf) | General Social Survey | - |
+| [Byrne, B. M. 2010](https://www.taylorfrancis.com/books/mono/10.4324/9781315757421/structural-equation-modeling-amos-barbara-byrne?context=ubx&refId=e1461dd2-d391-4367-b25d-54cfb691865e) | Teacher’s burnout study. | [link to dataset](https://github.com/kurowasan/cd_datasets/blob/main/data/teacher_burnout_data.csv) |
+| [Shimizu et al., 2011](https://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf) | General Social Survey | [link to dataset](https://github.com/kurowasan/cd_datasets/blob/main/data/general_status_survey.csv) |
