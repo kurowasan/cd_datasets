@@ -77,6 +77,7 @@ Here is a list of datasets that were discussed in our paper with links to downlo
 | Article                                                                 | Name                                            | Link                                                                               |
 |------------------------------------------------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------|
 | [Stein et al., 2025](https://arxiv.org/pdf/2503.17452)  | CausalRivers                          | [link to dataset](https://github.com/causalrivers/causalrivers) |
+| [Pruthi et al., 2025](https://arxiv.org/pdf/2406.17714)  | Query executions & matrix operations                          | [link to datasets](https://github.com/KDL-umass/compositional_models_cate) |
 | [Gamella et al., 2024](https://arxiv.org/pdf/2404.11341)  | Causal Chambers                            | [link to simulator](https://github.com/juangamella/causal-chamber) |
 | [Wang et al., 2023](https://openreview.net/pdf?id=JFaZ94tT8M) | MOS 6502 microprocessor | [link to dataset](https://github.com/KordingLab/LearningCausalDiscovery) |
 | [Gentzel et al., 2019](https://arxiv.org/abs/1910.05387) | Software Systems (PostgreSQL, JDK, Networking) | [link to datasets](https://groups.cs.umass.edu/kdl/causal-eval-data/) |
